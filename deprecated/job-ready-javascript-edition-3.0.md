@@ -16,7 +16,7 @@
 
 This is: "*A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.*"
 
-##Content
+## Content
 - [Tier 0 - Prep](#tier-0---prep)
 - [Tier 1 - The Basics](#tier-1---the-basics)
 - [Tier 2 - Intro to Programming](#tier-2---intro-to-programming)
