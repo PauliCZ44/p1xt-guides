@@ -174,9 +174,10 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ---
 
-## Tier null - What i made and it is not on the list
+## Tier null - What i made/watched/read and it is not on the list
 - [ ] Course: FreeCodeCamp Academy - JS - Basic JS 110/110 = 100%;    ES6 6/31 = 19%
-
+- [ ] Tutorial:  "Watch and code" by Gordon Zhu - practical javascript - 90% 
+- [x] Course: IT Network - Webové stránky krok za krokem - 100 % (free content)
 
 
 
