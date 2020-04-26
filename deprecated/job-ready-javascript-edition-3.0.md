@@ -1,7 +1,17 @@
 # Get Job ready - JavaScript Edition - Version 3.0
-## My progres so far: Finishing tier 1 and working on tier 0
-A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
 
+## My progres so far:##
+**Tier 0:** 50%
+**Tier 1:** 71%
+**Tier 2:** 0%
+**Tier 3:** 0%
+**Tier 4:** 0%
+**Tier 5:** 0%
+
+
+This is: "*A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.*"
+
+##Content
 - [Tier 0 - Prep](#tier-0---prep)
 - [Tier 1 - The Basics](#tier-1---the-basics)
 - [Tier 2 - Intro to Programming](#tier-2---intro-to-programming)
@@ -66,6 +76,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [ ] Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-agency/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ] Project: [CodinGame](https://www.codingame.com/training) finish all problems in the 'Classic Puzzle - Easy' section.
+ -- *Logged here and finished first chalenge. site seems good*
 - [ ] Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
 - [ ] Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-resume/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
