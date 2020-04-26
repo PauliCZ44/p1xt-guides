@@ -1,6 +1,6 @@
 # Get Job ready - JavaScript Edition - Version 3.0
 
-## --My progres so far:**##
+## -- My progres so far: --
 **Tier 0:** 50%
 
 **Tier 1:** 71%
