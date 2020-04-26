@@ -1,5 +1,5 @@
 # Get Job ready - JavaScript Edition - Version 3.0
-
+## My progres so far: Finishing tier 1 and working on tier 0
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
 
 - [Tier 0 - Prep](#tier-0---prep)
@@ -32,11 +32,14 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
       ](https://www.khanacademy.org/math/trigonometry) and [
       Precalculus
       ](https://www.khanacademy.org/math/precalculus)).
- 
-- [ ] Videos: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
+ *Progres:* Working on algebra (its kind of review co it should go quick)
+- [x] Videos: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
 - [ ] Project: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
-- [ ] Project: take a quick read through the [FAQ for this guide](#faq-for-this-guide) at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
-*Working ont this*
+*Progres*: I logged in hackerrank. I also work on js.checkio.org. so i will track this here
+*Checkio:*  Elementary 28% 
+*Hackerrank - Chingu Challenge #9 - JavaScript Prep:* 0 %
+- [x] Project: take a quick read through the [FAQ for this guide](#faq-for-this-guide) at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
+
 ---
 
 ## Tier 1 - The Basics
@@ -51,7 +54,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 *Working ont this*
 - [x] Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 - [ ] Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
-*Working ont this*
+*Working on this*
 ## Tier 2 - Intro to Programming
 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
