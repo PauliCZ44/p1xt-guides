@@ -50,9 +50,13 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
  *Progres:* Working on algebra (its kind of review co it should go quick)
 - [x] Videos: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
 - [ ] Project: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
-*Progres*: I logged in hackerrank. I also work on js.checkio.org. so i will track this here
-*Checkio:*  Elementary 28% 
-*Hackerrank - Chingu Challenge #9 - JavaScript Prep:* 0 %
+
+*-- Progres*: I logged in hackerrank. I also work on js.checkio.org. so i will track this here
+
+*--- Checkio:*  Elementary 28% 
+
+*--- Hackerrank - Chingu Challenge #9 - JavaScript Prep:* 0 %
+
 - [x] Project: take a quick read through the [FAQ for this guide](#faq-for-this-guide) at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
 
 ---
@@ -66,10 +70,11 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [x] Course: [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 - [x] Course: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 - [ ] Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
-*Working ont this*
+
+*---Working ont this*
 - [x] Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 - [ ] Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
-*Working on this*
+*---Working on this*
 ## Tier 2 - Intro to Programming
 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
