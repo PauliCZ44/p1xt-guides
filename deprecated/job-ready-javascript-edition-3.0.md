@@ -175,9 +175,9 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 ---
 
 ## Tier null - What i made and it is not on the list
-- [ ] Course: FreeCodeCamp Academy - JS - Basic JS 110/110 = 100%
+- [ ] Course: FreeCodeCamp Academy - JS - Basic JS 110/110 = 100%;    ES6 6/31 = 19%
 
-                                        - ES6 6/31 = 19%
+
 
 
 ## What now?
