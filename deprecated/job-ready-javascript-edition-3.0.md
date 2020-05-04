@@ -68,15 +68,15 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 * *---Working ont this*
 - [x] Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
-- [ ] Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
-* *---Working on this*
+- [x] Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)  completed 04.05.2020
 ## Tier 2 - Intro to Programming
 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
 
 - [ ] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
-- [ ] Book: [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [ ] Book: [Eloquent JavaScript](https://eloquentjavascript.net/) 
+*  *-- Progress*: page 48/699
 - [ ] Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-landing-page/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [ ] Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-agency/) as your inspiration, include all features (hover effects, animations, etc)
