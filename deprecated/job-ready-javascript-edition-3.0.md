@@ -3,9 +3,9 @@
 ## -- My progress so far: --
 * **Tier 0:** 50%
 
-* **Tier 1:** 71%
+* **Tier 1:** 85%
 
-* **Tier 2:**  0%
+* **Tier 2:**  2%
 
 * **Tier 3:**  0%
 
